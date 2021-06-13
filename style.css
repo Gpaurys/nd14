@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: beige;
+}
+
+h1 {
+  margin: 20px;
+}
+
+input, button {
+  width: 197px;
+  cursor: pointer;
+}
+
+table {
+  margin: 20px;
+  width: 600px;
+}
+
+table, th, td {
+  border: 2px solid #FFE000;
+  border-collapse: collapse;
+  font-size: 20px;
+  color: white;
+  padding-left: 10px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.top {
+  width: 200px;
+  height: 50px;
+  background: #CAC531;
+  padding-right: 15px;
+  color: darkviolet;
+}
+
+
+#tbody {
+  width: 400px;
+  height: 50px;
+  background: darkviolet;
+}
+
+.section {
+  width: 600px;
+  margin: 20px;
+}
